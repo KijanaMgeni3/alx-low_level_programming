@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
- *positive_or_negtive - generates random numbers,delcares + OR -
+ *positive_or_negative - generates random numbers,delcares + OR -
  *@i:integer
  * Return: 1, if succesful
  */
